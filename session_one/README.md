@@ -11,8 +11,7 @@ One Ojibwe legend tells of a lone chickadee who sought shelter under a Tamarack 
 
 <param ve-image
 	   src="wc:Larix_sibirica_with_golden_foliage.jpg"
-	   caption=Tamarack tree needles turn a golden yellow in autumn.
-
+	   caption="Tamarack tree needles turn a golden yellow in autumn.">
 
 
 
